@@ -11,3 +11,5 @@ If data.json does not exist, a 404 error will be returned.
 Request for an Unsupported File Type:
 
 If a client requests /image.png, the server will return a 404 error indicating that the file type is not supported.
+
+# ..
